@@ -1,0 +1,11 @@
+{
+  "name": "stylelint-scss-single-line-comment-bug",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "stylelint \"**/*.scss\""
+  },
+  "devDependencies": {
+    "stylelint": "https://github.com/stylelint/stylelint#3dd2884e6df540295d08301e004beee0857be906"
+  }
+}
