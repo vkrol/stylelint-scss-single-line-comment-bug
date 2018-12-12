@@ -2063,9 +2063,9 @@ style-search@^0.1.0:
   resolved "https://registry.yarnpkg.com/style-search/-/style-search-0.1.0.tgz#7958c793e47e32e07d2b5cafe5c0bf8e12e77902"
   integrity sha1-eVjHk+R+MuB9K1yv5cC/jhLneQI=
 
-"stylelint@https://github.com/stylelint/stylelint#3dd2884e6df540295d08301e004beee0857be906":
+"stylelint@https://github.com/stylelint/stylelint#48dc8550b38dd0a52637411cdb89a9f8157d1f6c":
   version "9.7.1"
-  resolved "https://github.com/stylelint/stylelint#3dd2884e6df540295d08301e004beee0857be906"
+  resolved "https://github.com/stylelint/stylelint#48dc8550b38dd0a52637411cdb89a9f8157d1f6c"
   dependencies:
     autoprefixer "^9.0.0"
     balanced-match "^1.0.0"

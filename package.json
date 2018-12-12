@@ -6,6 +6,6 @@
     "lint": "stylelint \"**/*.scss\""
   },
   "devDependencies": {
-    "stylelint": "https://github.com/stylelint/stylelint#3dd2884e6df540295d08301e004beee0857be906"
+    "stylelint": "https://github.com/stylelint/stylelint#48dc8550b38dd0a52637411cdb89a9f8157d1f6c"
   }
 }
